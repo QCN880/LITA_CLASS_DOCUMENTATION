@@ -11,6 +11,7 @@
 
 ### Project topic :Comprehensive Sales Performance Dashboard
 
+
 ### Project overview 
 ---
 This Comprehensive Sales performance  dashboard is developed to monitor and analyze sales performance across various regions,market and stores  enabling data-driven decision-making for business growth and optimization.
@@ -90,6 +91,11 @@ The data , Pivot table.xls was cleaned by :
     3. Revenue Growth Rate: Percentage increase or decrease in revenue over periods.
     4. Sales Trends:Yearly and quarterly revenue and units sold trends.
  - Secondary KPIs:
+    1. Average Revenue per Unit: Revenue divided by units sold.
+    2. Models by Revenue: Identification of highest revenue-generating product models.
+    3. Revenue by Line of Business: Breakdown of revenue across different business lines.
+    5. Revenue by market: Identification of top six market based on the revenue generated.
+
     
 
 ### Data cleaning and analysis
