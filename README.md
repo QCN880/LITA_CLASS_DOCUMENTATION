@@ -3,7 +3,7 @@
 ## Table of content
 - [Project Overview](#project-overview)
 - [Objectives](#objectives)
-- [Excel file columns](#excel-file-column)
+- [Excel file columns](#excel-file-columns)
 - [Formulas used](#formulas-used)
 
 
@@ -15,7 +15,7 @@ This Comprehensive Sales performance  dashboard is developed to monitor and anal
 
 
 
-### Objectives :
+### Objectives
 ---
 The objective of this dashboard is to :
  1. Analyze sales trends and identify areas of growth.
