@@ -1,10 +1,10 @@
 # LITA_CLASS_DOCUMENTATION
 
 ## Table of content
-- [Project Overview](project-overview)
-- [Objectives](objectives)
-- [Excel file columns](excel-file-column)
-- [Formulas used](formulas_used)
+- [Project Overview](#project-overview)
+- [Objectives](#objectives)
+- [Excel file columns](#excel-file-column)
+- [Formulas used](#formulas_used)
 
 ### Project topic :Comprehensive Sales Performance Dashboard
 
