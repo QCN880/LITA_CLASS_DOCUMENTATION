@@ -3,7 +3,9 @@
 ## Table of content
 - [Project Overview](#project-overview)
 - [Objectives](#objectives)
+- [Data sources](#data-sources)
 - [Excel file columns](#excel-file-columns)
+- [Tools used](#tools-used)
 - [Formulas used](#formulas-used)
 
 
@@ -47,7 +49,7 @@ The Excel file used (pivot table.xls) contains the following columns
 10. Units Sold: indicate the Number of units sold
 11. Transaction Category : Includes the type of transaction carried out
 
-### Tools used :
+### Tools used
 ---
  -	Microsoft Excel: Advanced formulas, PivotTables, Pivot charts
  -	Data Visualization: Charts, Graphs, Slicers, Timelines
