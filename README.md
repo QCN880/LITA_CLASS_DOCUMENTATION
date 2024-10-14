@@ -82,6 +82,12 @@ The data , Pivot table.xls was cleaned by :
 ---
 #### 1. Interactive filters
   - Slicers and Timelines for dynamic data filtering by Region ,Transactin date ,Month and Day Category
+
+     Slicer-Filter by Region
+    
+    ![Screenshot 2024-10-14 124142](https://github.com/user-attachments/assets/d37e4942-2170-4743-b420-fc4eef91b76b)
+
+    Timeline- Filters by Transaction date,year,quaters and month
     
 
 #### 2. Key performance indicators(KPI)
@@ -98,6 +104,9 @@ The data , Pivot table.xls was cleaned by :
 
  #### Visualizations
  ---
+   Sales Trend : A combined graph showing the rate of sales by revenue and numbers of unit sold 
+   
+ ![Screenshot 2024-10-14 151041](https://github.com/user-attachments/assets/3228b562-e3dc-469f-bf2b-f3d976c8045b)
  
 
 ### Data cleaning and analysis
