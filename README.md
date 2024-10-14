@@ -1,16 +1,19 @@
 # LITA_CLASS_DOCUMENTATION
 
 ## Table of content
-- [Project Overview](#project-overview)
-- [Objectives](#objectives)
-- [Excel file columns](#excel-file-column)
-- [Formulas used](#formulas_used)
+- [Project Overview](project-overview)
+- [Objectives](objectives)
+- [Excel file columns](excel-file-column)
+- [Formulas used](formulas-used)
+
 
 ### Project topic :Comprehensive Sales Performance Dashboard
 
 ### Project overview 
 ---
 This Comprehensive Sales performance  dashboard is developed to monitor and analyze sales performance across various regions,market and stores  enabling data-driven decision-making for business growth and optimization.
+
+
 
 ### Objectives :
 ---
@@ -28,7 +31,7 @@ Click on the link below to download the data
 
 [Download here](www.google.com)
 
-### Excel file columns :
+### Excel file columns
 ---
 The Excel file used (pivot table.xls) contains the following columns
 
@@ -51,7 +54,7 @@ The Excel file used (pivot table.xls) contains the following columns
  -	Documentation: README.md, Project Report (PDF)
  -	GitHub for portfolio building
 
-   ### Formulas used:
+   ### Formulas used
    ---
    The formula used for the analysis of the data and preparation of the dashboard are shown below.
    ```Excel functions and formula
@@ -70,15 +73,15 @@ The data , Pivot table.xls was cleaned by :
  3. Triming whitespaces
  4. Grouping transaction category into low,medium and high
 
-### Data analysis :
+### Data analysis
 
-### Dashboard Features :
+### Dashboard Features
 ---
 #### 1. Interactive filters
   - Slicers and Timelines for dynamic data filtering by Region ,Transactin date ,Month and Day Category
     
 
-#### 2. Key performance indicators(KPI) :
+#### 2. Key performance indicators(KPI)
   - Primary KPIs:
     1. Total Revenue: Aggregated revenue across selected filters.
     2. Total Units Sold: Aggregated units sold across selected filters.
