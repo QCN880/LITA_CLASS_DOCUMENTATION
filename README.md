@@ -4,7 +4,7 @@
 - [Project Overview](project-overview)
 - [Objectives](objectives)
 - [Excel file columns](excel-file-column)
-- [Formulas used](formulas-used)
+- [Formulas used](formulas_used)
 
 ### Project topic :Comprehensive Sales Performance Dashboard
 
