@@ -114,13 +114,9 @@ The data , Pivot table.xls was cleaned by :
 ![Screenshot 2024-10-14 153323](https://github.com/user-attachments/assets/f3437e09-df3b-42ab-a505-1e7d4eb235fa)
  
 
-### Data cleaning and analysis
----
-In the initial phase of the Data cleaning and preparations, we perform the following action;
-
-1. Data loading and Inspection
-2. Handling missing variables
-3. Data Cleaning and formatting
+### Video
+A detailed video showing the entire dashboard and how the revenue generated is affected by the regions by using the Region slicer
+It also shows the revenue generated each year and how they depend on the unit sold,region,line of business,maket and models
 
 ### Exloratory data analysis
 ---
