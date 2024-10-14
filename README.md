@@ -16,7 +16,8 @@
 ---
 This Comprehensive Sales performance  dashboard is developed to monitor and analyze sales performance across various regions,market and stores  enabling data-driven decision-making for business growth and optimization.
 
-
+##### An image of the entire dashboard
+![Screenshot 2024-10-14 153618](https://github.com/user-attachments/assets/5f3c951e-3cf6-40c3-aa48-2205f0fc2c15)
 
 ### Objectives
 ---
@@ -107,6 +108,10 @@ The data , Pivot table.xls was cleaned by :
    Sales Trend : A combined graph showing the rate of sales by revenue and numbers of unit sold 
    
  ![Screenshot 2024-10-14 151041](https://github.com/user-attachments/assets/3228b562-e3dc-469f-bf2b-f3d976c8045b)
+
+ ##### Revenue by Line of business : The pie chart below shows how the revenue generated is affected by the line of business
+ 
+![Screenshot 2024-10-14 153323](https://github.com/user-attachments/assets/f3437e09-df3b-42ab-a505-1e7d4eb235fa)
  
 
 ### Data cleaning and analysis
