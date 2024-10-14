@@ -1,6 +1,6 @@
 # LITA_CLASS_DOCUMENTATION
 
-### Project topic :Sales analysis
+### Project topic :Sales dashboard
 
 ### Project overview 
 ---
