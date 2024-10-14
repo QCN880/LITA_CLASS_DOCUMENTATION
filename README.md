@@ -96,7 +96,9 @@ The data , Pivot table.xls was cleaned by :
     3. Revenue by Line of Business: Breakdown of revenue across different business lines.
     5. Revenue by market: Identification of top six market based on the revenue generated.
 
-    
+ #### Visualizations
+ ---
+ 
 
 ### Data cleaning and analysis
 ---
