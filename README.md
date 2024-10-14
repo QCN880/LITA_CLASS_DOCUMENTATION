@@ -1,29 +1,68 @@
 # LITA_CLASS_DOCUMENTATION
 
-### Project topic :Sales dashboard
+### Project topic :Comprehensive Sales Performance Dashboard
 
 ### Project overview 
 ---
-This Sales Analysis project aims to provide comprehensive insights into sales performance over the past year. Through rigorous analysis of key parameters, we seek to:
+This Comprehensive Sales performance  dashboard is developed to monitor and analyze sales performance across various regions,market and stores  enabling data-driven decision-making for business growth and optimization.
 
-1. Gather actionable insights to inform data-driven decisions.
-2. Craft compelling stories around our data.
-3. Identify top-performing areas and opportunities for growth.
+### Objectives :
+---
+The objective of this dashboard includes:
+ 1. Analyze sales trends and identify areas of growth.
+ 2. Develop data-driven recommendations to optimize sales strategies.
+ 3. Create interactive dashboards for stakeholder communication.
+
 
 ### Data sources
 ---
-The primary source of Data used here is Data Sale.csv and this is an open source data that can be freely downloaded from an open source online such as kaggle or FRED or any other data repository site.
+The primary source of Data used here is pivot table.xls
 
-### Tools use
+Click on the link below to download the data
+
+[Download here](www.google.com)
+
+### Excel file columns :
 ---
-- Microsoft Excel[Download here](https://www.microsoft.com)
+The Excel file used (pivot table.xls) contains the following columns
+
+1. Regions: Contains six geo political zones in Nigeria (e.g south west,North East )
+2. Market: Specific markets or segments
+3. Store:Includes Individual store names in the location
+4. Trade Date: Displays the date of the transaction
+5. Fiscal Period: Accounting periods (e.g., Q1, Q2)
+6. Model: Product models or SKUs
+7. Line of Business:Includes the various categories of business operations
+8. Day Category: Classification of days (e.g., Workday,public holiday etc)
+9. Revenue: Indicate the sales revenue generated
+10. Units Sold: indicate the Number of units sold
+11. Transaction Category : Includes the type of transaction carried out
+
+### Tools used :
+---
+ -	Microsoft Excel: Advanced formulas, PivotTables, Pivot charts
+ -	Data Visualization: Charts, Graphs, Slicers, Timelines
+ -	Documentation: README.md, Project Report (PDF)
+ -	GitHub for portfolio building
+
+   ### Formulas used:
+   ---
+   The formula used for the analysis of the data and preparation of the dashboard are shown below.
+   ```Excel functions and formula
+  Revenue Growth Rate = (B3 - B2)/B2
+
+  Revenue per unit sold = Revenue/unit sold
+
+  =IF(J1138<=20,"Low",IF(J1138<=50,"Medium","High"))
   
-  1. For data cleaning.
-  2. For analysis.
-  3. For visualization.
-  
-- SQL server for quering of data
-- Github for portfolio building
+   ```
+
+### Dashboard Features :
+#### 1. Interactive filters
+  - Slicers and Timelines for dynamic data filtering by Region ,Transactin date ,Month and Day Category
+
+#### 2. Key performance indicators :
+
 
 ### Data cleaning and analysis
 ---
