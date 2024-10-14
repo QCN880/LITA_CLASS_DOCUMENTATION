@@ -83,7 +83,7 @@ The data , Pivot table.xls was cleaned by :
 #### 1. Interactive filters
   - Slicers and Timelines for dynamic data filtering by Region ,Transactin date ,Month and Day Category
 
-     Slicer-Filter by Region
+    ##### Slicer-Filter by Region
     
     ![Screenshot 2024-10-14 124142](https://github.com/user-attachments/assets/d37e4942-2170-4743-b420-fc4eef91b76b)
 
