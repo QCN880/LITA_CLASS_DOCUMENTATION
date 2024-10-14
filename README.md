@@ -8,7 +8,7 @@ This Comprehensive Sales performance  dashboard is developed to monitor and anal
 
 ### Objectives :
 ---
-The objective of this dashboard includes:
+The objective of this dashboard is to :
  1. Analyze sales trends and identify areas of growth.
  2. Develop data-driven recommendations to optimize sales strategies.
  3. Create interactive dashboards for stakeholder communication.
@@ -56,13 +56,27 @@ The Excel file used (pivot table.xls) contains the following columns
   =IF(J1138<=20,"Low",IF(J1138<=50,"Medium","High"))
   
    ```
+### Data cleaning and  formating
+---
+The data , Pivot table.xls was cleaned by :
+ 1. Checking and removing blanks
+ 2. Checking and deleting duplicate rows
+ 3. Triming whitespaces
+ 4. Grouping transaction category into low,medium and high
 
 ### Dashboard Features :
+---
 #### 1. Interactive filters
   - Slicers and Timelines for dynamic data filtering by Region ,Transactin date ,Month and Day Category
 
-#### 2. Key performance indicators :
-
+#### 2. Key performance indicators(KPI) :
+  - Primary KPIs:
+    1. Total Revenue: Aggregated revenue across selected filters.
+    2. Total Units Sold: Aggregated units sold across selected filters.
+    3. Revenue Growth Rate: Percentage increase or decrease in revenue over periods.
+    4. Sales Trends:Yearly and quarterly revenue and units sold trends.
+ - Secondary KPIs:
+    
 
 ### Data cleaning and analysis
 ---
