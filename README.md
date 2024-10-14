@@ -64,10 +64,13 @@ The data , Pivot table.xls was cleaned by :
  3. Triming whitespaces
  4. Grouping transaction category into low,medium and high
 
+### Data analysis :
+
 ### Dashboard Features :
 ---
 #### 1. Interactive filters
   - Slicers and Timelines for dynamic data filtering by Region ,Transactin date ,Month and Day Category
+    
 
 #### 2. Key performance indicators(KPI) :
   - Primary KPIs:
