@@ -1,3 +1,4 @@
+
 # LITA_CLASS_DOCUMENTATION
 
 ## Table of content
@@ -17,7 +18,7 @@
 This Comprehensive Sales performance  dashboard is developed to monitor and analyze sales performance across various regions,market and stores  enabling data-driven decision-making for business growth and optimization.
 
 ##### An image of the entire dashboard
-![Screenshot 2024-10-14 153618](https://github.com/user-attachments/assets/5f3c951e-3cf6-40c3-aa48-2205f0fc2c15)
+![Screenshot 2024-11-20 134147](https://github.com/user-attachments/assets/fb74b616-291a-4543-9ed1-036eceba3065)
 
 ### Objectives
 ---
